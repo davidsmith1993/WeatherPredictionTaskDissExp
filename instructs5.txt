@@ -1,0 +1,4 @@
+If you do not respond within 15 seconds
+the trial will end and you will see the following message.
+
+Press the space bar to continue.

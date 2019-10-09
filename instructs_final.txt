@@ -1,0 +1,5 @@
+Are you ready to start the experiment or would you like to repeat the instructions?
+
+Press "i" to repeat the instructions
+Press "p" to repeat the practice trials
+Press "e" to continue with the experiment

@@ -1,0 +1,10 @@
+Congratulations! You've completed training. 
+
+Now we want to see if the knowledge you gained will help you on another task.
+
+On each trial, you will be presented with the cards you were shown earlier in the experiment
+and will be asked to select which weather pattern they predict. 
+
+Use the training you just completed to help you make the correct choice.
+
+Unlike training, you will not receive any feedback.

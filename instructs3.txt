@@ -1,0 +1,7 @@
+If your response was incorrect, you will hear a low-pitched tone
+and see the word "WRONG" along with name of the 
+weather you should have selected.  
+
+Press the space bar to see an example of incorrect feedback..
+
+

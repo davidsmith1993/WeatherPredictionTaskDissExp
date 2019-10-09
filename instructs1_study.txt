@@ -1,0 +1,8 @@
+WELCOME TO THIS PART OF THE EXPERIMENT
+
+You will be seeing one, two, or three geometric cues with geometric shapes.
+Your task is to be able to predict whether these cues predict rain or sun.
+You will be shown the cues along with the correct weather prediction.
+
+
+Press the space bar to see examples of the images. 

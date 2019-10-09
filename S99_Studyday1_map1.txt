@@ -1,0 +1,2058 @@
+
+
+Checking for duplicate data files . . .
+
+
+
+No duplicates found.  Experiment proceeding.
+
+ 
+You have selected the following parameters for this subject:
+     Subject Number = 99
+     Training Condition = Study
+     Day = day1
+     Gender = female
+     data filename =  S99_Studyday1_map1.dat
+     Monitor size = 16 inch monitor (horizontal)
+     Monitor resolution = 1600 x 1200resolution
+
+
+Please take a moment to double check these parameters against the experiment log.
+Accept, Reset, or Quit program (a, r, q): a
+test1
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: Fixed point precision integer framebuffer enabled.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.665327 ms [60.004822 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.666365 ms [60.001086 Hz]. (50 valid samples taken, stddev=0.036274 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+test2
+{Error: <a href="matlab: opentoline('C:\Users\Physio\Desktop\Weather Prediction Task\David_Pilot_4WPT.m',570,1)">File: David_Pilot_4WPT.m Line: 570 Column: 1
+</a>Illegal use of reserved keyword "catch".
+} 
+David_Pilot_4WPT
+PsychJavaTrouble: Will now try to add the PsychJava folder to Matlabs dynamic classpath...
+PsychJavaTrouble: Added PsychJava folder to dynamic class path. Psychtoolbox Java commands should work now!
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.665890 ms [60.002795 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.665473 ms [60.004296 Hz]. (50 valid samples taken, stddev=0.028289 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+
+*************************************************************************
+
+EXPERIMENTERS, PLEASE READ. 
+Place the monitor approximately 20 in (50.8 cm) from the subject
+x_resolution = 1600
+y_resolution = 1200
+
+
+
+Response Keys
+
+     Category response labels A/B and AnA conditions.
+     If the category-keyboard mapping = 1, f=catA/Yes, j=catB/No:
+     If the category-keyboard mapping = 2, j=catA/Yes, f=catB/No:
+
+   Production task keys.
+     z=OK, /=ADJ, t=up arrow, y=down arrow
+     If the category-keyboard mapping = 2, k=catA/Yes, d=catB/No:
+
+
+IMPORTANT!!!!
+
+*************************************************************************
+
+
+Are you ready to proceed? (1=yes, -1=quit program)  :  1
+DEBUG MODE? (1=yes,0=no): 0
+Enter subject number: 1
+
+
+STOP! All participants will be completing two days of the experiment: 
+Please double check that you are entering the correct day.Enter task day:  day 1 or 2    1
+Training Condition: (Study = 1; Test = 2)  1
+Enter subject gender female (1), male (2): 1
+Enter category-keyboard mapping. (1 or 2).  1
+
+
+Do you want to present the instructions?
+Enter 1 for full instructions, or 0 for no instructions.  0
+
+
+Checking for duplicate data files . . .
+
+
+
+No duplicates found.  Experiment proceeding.
+
+ 
+You have selected the following parameters for this subject:
+     Subject Number = 1
+     Training Condition = Study
+     Day = day1
+     Gender = female
+     data filename =  S1_Studyday1_map1.dat
+     Monitor size = 16 inch monitor (horizontal)
+     Monitor resolution = 1600 x 1200resolution
+
+
+Please take a moment to double check these parameters against the experiment log.
+Accept, Reset, or Quit program (a, r, q): a
+test1
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: Fixed point precision integer framebuffer enabled.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.665569 ms [60.003950 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.665557 ms [60.003996 Hz]. (50 valid samples taken, stddev=0.051699 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+test2
+{Error: <a href="matlab: opentoline('C:\Users\Physio\Desktop\Weather Prediction Task\David_Pilot_4WPT.m',570,1)">File: David_Pilot_4WPT.m Line: 570 Column: 1
+</a>Illegal use of reserved keyword "catch".
+} 
+load temp
+David_Pilot_4WPT
+PsychJavaTrouble: Will now try to add the PsychJava folder to Matlabs dynamic classpath...
+PsychJavaTrouble: Added PsychJava folder to dynamic class path. Psychtoolbox Java commands should work now!
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.662990 ms [60.013239 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.667212 ms [59.998037 Hz]. (50 valid samples taken, stddev=0.025256 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+
+*************************************************************************
+
+EXPERIMENTERS, PLEASE READ. 
+Place the monitor approximately 20 in (50.8 cm) from the subject
+x_resolution = 1600
+y_resolution = 1200
+
+
+
+Response Keys
+
+     Category response labels A/B and AnA conditions.
+     If the category-keyboard mapping = 1, f=catA/Yes, j=catB/No:
+     If the category-keyboard mapping = 2, j=catA/Yes, f=catB/No:
+
+   Production task keys.
+     z=OK, /=ADJ, t=up arrow, y=down arrow
+     If the category-keyboard mapping = 2, k=catA/Yes, d=catB/No:
+
+
+IMPORTANT!!!!
+
+*************************************************************************
+
+
+Are you ready to proceed? (1=yes, -1=quit program)  :  1
+DEBUG MODE? (1=yes,0=no): 1
+Are you sure that you want to DEBUG? (1=yes,0=no): 0
+DEBUG MODE? (1=yes,0=no): -
+{Error: <a href="matlab: opentoline('C:\Users\Physio\Desktop\Weather Prediction Task\David_Pilot_4WPT.m',570,1)">File: David_Pilot_4WPT.m Line: 570 Column: 1
+</a>Illegal use of reserved keyword "catch".
+} 
+David_Pilot_4WPT
+PsychJavaTrouble: Will now try to add the PsychJava folder to Matlabs dynamic classpath...
+PsychJavaTrouble: Added PsychJava folder to dynamic class path. Psychtoolbox Java commands should work now!
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.666060 ms [60.002182 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.665813 ms [60.003072 Hz]. (50 valid samples taken, stddev=0.034533 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+
+*************************************************************************
+
+EXPERIMENTERS, PLEASE READ. 
+Place the monitor approximately 20 in (50.8 cm) from the subject
+x_resolution = 1600
+y_resolution = 1200
+
+
+
+Response Keys
+
+     Category response labels A/B and AnA conditions.
+     If the category-keyboard mapping = 1, f=catA/Yes, j=catB/No:
+     If the category-keyboard mapping = 2, j=catA/Yes, f=catB/No:
+
+   Production task keys.
+     z=OK, /=ADJ, t=up arrow, y=down arrow
+     If the category-keyboard mapping = 2, k=catA/Yes, d=catB/No:
+
+
+IMPORTANT!!!!
+
+*************************************************************************
+
+
+Are you ready to proceed? (1=yes, -1=quit program)  :  1
+DEBUG MODE? (1=yes,0=no): 0
+Enter subject number: 1
+
+
+STOP! All participants will be completing two days of the experiment: 
+Please double check that you are entering the correct day.Enter task day:  day 1 or 2    1
+Training Condition: (Study = 1; Test = 2)  1
+Enter subject gender female (1), male (2): 1
+Enter category-keyboard mapping. (1 or 2).  1
+
+
+Do you want to present the instructions?
+Enter 1 for full instructions, or 0 for no instructions.  0
+
+
+Checking for duplicate data files . . .
+
+
+
+No duplicates found.  Experiment proceeding.
+
+ 
+You have selected the following parameters for this subject:
+     Subject Number = 1
+     Training Condition = Study
+     Day = day1
+     Gender = female
+     data filename =  S1_Studyday1_map1.dat
+     Monitor size = 16 inch monitor (horizontal)
+     Monitor resolution = 1600 x 1200resolution
+
+
+Please take a moment to double check these parameters against the experiment log.
+Accept, Reset, or Quit program (a, r, q): a
+test1
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: Fixed point precision integer framebuffer enabled.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.665026 ms [60.005907 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.665826 ms [60.003026 Hz]. (50 valid samples taken, stddev=0.017573 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+test2
+test3
+test4
+test4
+{Error: <a href="matlab: opentoline('C:\Users\Physio\Desktop\Weather Prediction Task\David_Pilot_4WPT.m',570,1)">File: David_Pilot_4WPT.m Line: 570 Column: 1
+</a>Illegal use of reserved keyword "catch".
+} 
+clear all
+load temp
+uiopen('C:\Users\Physio\Desktop\Weather Prediction Task\feedback_init.m',1)
+David_Pilot_4WPT
+PsychJavaTrouble: Will now try to add the PsychJava folder to Matlabs dynamic classpath...
+PsychJavaTrouble: Added PsychJava folder to dynamic class path. Psychtoolbox Java commands should work now!
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.665681 ms [60.003550 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.665647 ms [60.003673 Hz]. (50 valid samples taken, stddev=0.054695 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+
+*************************************************************************
+
+EXPERIMENTERS, PLEASE READ. 
+Place the monitor approximately 20 in (50.8 cm) from the subject
+x_resolution = 1600
+y_resolution = 1200
+
+
+
+Response Keys
+
+     Category response labels A/B and AnA conditions.
+     If the category-keyboard mapping = 1, f=catA/Yes, j=catB/No:
+     If the category-keyboard mapping = 2, j=catA/Yes, f=catB/No:
+
+   Production task keys.
+     z=OK, /=ADJ, t=up arrow, y=down arrow
+     If the category-keyboard mapping = 2, k=catA/Yes, d=catB/No:
+
+
+IMPORTANT!!!!
+
+*************************************************************************
+
+
+Are you ready to proceed? (1=yes, -1=quit program)  :  1
+DEBUG MODE? (1=yes,0=no): 0
+Enter subject number: 2
+
+
+STOP! All participants will be completing two days of the experiment: 
+Please double check that you are entering the correct day.Enter task day:  day 1 or 2    1
+Training Condition: (Study = 1; Test = 2)  1
+Enter subject gender female (1), male (2): 1
+Enter category-keyboard mapping. (1 or 2).  1
+
+
+Do you want to present the instructions?
+Enter 1 for full instructions, or 0 for no instructions.  0
+
+
+Checking for duplicate data files . . .
+
+
+
+No duplicates found.  Experiment proceeding.
+
+ 
+You have selected the following parameters for this subject:
+     Subject Number = 2
+     Training Condition = Study
+     Day = day1
+     Gender = female
+     data filename =  S2_Studyday1_map1.dat
+     Monitor size = 16 inch monitor (horizontal)
+     Monitor resolution = 1600 x 1200resolution
+
+
+Please take a moment to double check these parameters against the experiment log.
+Accept, Reset, or Quit program (a, r, q): a
+test1
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: Fixed point precision integer framebuffer enabled.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.665864 ms [60.002890 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.666006 ms [60.002379 Hz]. (50 valid samples taken, stddev=0.033101 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+test2
+test3
+test4
+test5
+Snd(): Initializing PsychPortAudio driver for sound output.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+
+Will use ASIO enhanced Portaudio driver DLL. See Psychtoolbox/PsychSound/PortAudioLICENSE.txt
+for the exact terms of use for this dll.
+
+
+Disclaimer: "ASIO is a trademark and software of Steinberg Media Technologies GmbH."
+PTB-Warning: Although using the ASIO enabled Psychtoolbox sound driver,
+PTB-Warning: could not find any ASIO capable soundcard in your system.
+PTB-Warning: If you think you should have an ASIO card, please check your
+PTB-Warning: system for properly installed and configured drivers and retry.
+PTB-Warning: Read "help InitializePsychSound" for more info about ASIO et al.
+
+ans =
+
+     0
+
+Snd(): PsychPortAudio will be blocked for use by your own code until you call Snd('Close');
+Snd(): If you want to use PsychPortAudio and Snd in the same session, make sure to open your
+Snd(): stimulation sound device via calls to PsychPortAudio('Open', ...); *before* the first
+Snd(): call to Snd() or any function that might use Snd(), e.g., Beeper() and the Eyelink functions.
+
+check 0
+check 1
+check 2
+
+ans =
+
+   1.5056e+06
+
+
+
+INFO: PTB's Screen('Flip', 10) command seems to have missed the requested stimulus presentation deadline
+INFO: a total of 2 times out of a total of 2 flips during this session.
+
+INFO: This number is fairly accurate (and indicative of real timing problems in your own code or your system)
+INFO: if you provided requested stimulus onset times with the 'when' argument of Screen('Flip', window [, when]);
+INFO: If you called Screen('Flip', window); without the 'when' argument, this count is more of a ''mild'' indicator
+INFO: of timing behaviour than a hard reliable measurement. Large numbers may indicate problems and should at least
+INFO: deserve your closer attention. Cfe. 'help SyncTrouble', the FAQ section at www.psychtoolbox.org and the
+INFO: examples in the PDF presentation in PsychDocumentation/Psychtoolbox3-Slides.pdf for more info and timing tips.
+
+{Error: <a href="matlab: opentoline('C:\Users\Physio\Desktop\Weather Prediction Task\David_Pilot_4WPT.m',570,1)">File: David_Pilot_4WPT.m Line: 570 Column: 1
+</a>Illegal use of reserved keyword "catch".
+} 
+David_Pilot_4WPT
+PsychJavaTrouble: Will now try to add the PsychJava folder to Matlabs dynamic classpath...
+PsychJavaTrouble: Added PsychJava folder to dynamic class path. Psychtoolbox Java commands should work now!
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.664476 ms [60.007887 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.665659 ms [60.003626 Hz]. (50 valid samples taken, stddev=0.018587 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+
+*************************************************************************
+
+EXPERIMENTERS, PLEASE READ. 
+Place the monitor approximately 20 in (50.8 cm) from the subject
+x_resolution = 1600
+y_resolution = 1200
+
+
+
+Response Keys
+
+     Category response labels A/B and AnA conditions.
+     If the category-keyboard mapping = 1, f=catA/Yes, j=catB/No:
+     If the category-keyboard mapping = 2, j=catA/Yes, f=catB/No:
+
+   Production task keys.
+     z=OK, /=ADJ, t=up arrow, y=down arrow
+     If the category-keyboard mapping = 2, k=catA/Yes, d=catB/No:
+
+
+IMPORTANT!!!!
+
+*************************************************************************
+
+
+Are you ready to proceed? (1=yes, -1=quit program)  :  1
+DEBUG MODE? (1=yes,0=no): 0
+Enter subject number: 123
+
+
+STOP! All participants will be completing two days of the experiment: 
+Please double check that you are entering the correct day.Enter task day:  day 1 or 2    1
+Training Condition: (Study = 1; Test = 2)  1
+Enter subject gender female (1), male (2): 1
+Enter category-keyboard mapping. (1 or 2).  1
+
+
+Do you want to present the instructions?
+Enter 1 for full instructions, or 0 for no instructions.  0
+
+
+Checking for duplicate data files . . .
+
+
+
+No duplicates found.  Experiment proceeding.
+
+ 
+You have selected the following parameters for this subject:
+     Subject Number = 123
+     Training Condition = Study
+     Day = day1
+     Gender = female
+     data filename =  S123_Studyday1_map1.dat
+     Monitor size = 16 inch monitor (horizontal)
+     Monitor resolution = 1600 x 1200resolution
+
+
+Please take a moment to double check these parameters against the experiment log.
+Accept, Reset, or Quit program (a, r, q): a
+test1
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: Fixed point precision integer framebuffer enabled.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.666002 ms [60.002395 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.665852 ms [60.002933 Hz]. (50 valid samples taken, stddev=0.034776 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+test2
+test3
+test4
+test5
+Snd(): Initializing PsychPortAudio driver for sound output.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+
+Will use ASIO enhanced Portaudio driver DLL. See Psychtoolbox/PsychSound/PortAudioLICENSE.txt
+for the exact terms of use for this dll.
+
+
+Disclaimer: "ASIO is a trademark and software of Steinberg Media Technologies GmbH."
+PTB-Warning: Although using the ASIO enabled Psychtoolbox sound driver,
+PTB-Warning: could not find any ASIO capable soundcard in your system.
+PTB-Warning: If you think you should have an ASIO card, please check your
+PTB-Warning: system for properly installed and configured drivers and retry.
+PTB-Warning: Read "help InitializePsychSound" for more info about ASIO et al.
+
+ans =
+
+     0
+
+Snd(): PsychPortAudio will be blocked for use by your own code until you call Snd('Close');
+Snd(): If you want to use PsychPortAudio and Snd in the same session, make sure to open your
+Snd(): stimulation sound device via calls to PsychPortAudio('Open', ...); *before* the first
+Snd(): call to Snd() or any function that might use Snd(), e.g., Beeper() and the Eyelink functions.
+
+check 0
+check 1
+check 2
+
+ans =
+
+   1.5057e+06
+
+{Error: <a href="matlab: opentoline('C:\Users\Physio\Desktop\Weather Prediction Task\David_Pilot_4WPT.m',570,1)">File: David_Pilot_4WPT.m Line: 570 Column: 1
+</a>Illegal use of reserved keyword "catch".
+} 
+clear all
+load temp
+WaitSecs(1)
+
+ans =
+
+   1.5057e+06
+
+David_Pilot_4WPT
+PsychJavaTrouble: Will now try to add the PsychJava folder to Matlabs dynamic classpath...
+PsychJavaTrouble: Added PsychJava folder to dynamic class path. Psychtoolbox Java commands should work now!
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.664339 ms [60.008382 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.664703 ms [60.007068 Hz]. (50 valid samples taken, stddev=0.022315 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+
+*************************************************************************
+
+EXPERIMENTERS, PLEASE READ. 
+Place the monitor approximately 20 in (50.8 cm) from the subject
+x_resolution = 1600
+y_resolution = 1200
+
+
+
+Response Keys
+
+     Category response labels A/B and AnA conditions.
+     If the category-keyboard mapping = 1, f=catA/Yes, j=catB/No:
+     If the category-keyboard mapping = 2, j=catA/Yes, f=catB/No:
+
+   Production task keys.
+     z=OK, /=ADJ, t=up arrow, y=down arrow
+     If the category-keyboard mapping = 2, k=catA/Yes, d=catB/No:
+
+
+IMPORTANT!!!!
+
+*************************************************************************
+
+
+Are you ready to proceed? (1=yes, -1=quit program)  :  1
+DEBUG MODE? (1=yes,0=no): 0
+Enter subject number: 123123
+
+
+STOP! All participants will be completing two days of the experiment: 
+Please double check that you are entering the correct day.Enter task day:  day 1 or 2    1
+Training Condition: (Study = 1; Test = 2)  1
+Enter subject gender female (1), male (2): 1
+Enter category-keyboard mapping. (1 or 2).  1
+
+
+Do you want to present the instructions?
+Enter 1 for full instructions, or 0 for no instructions.  0
+
+
+Checking for duplicate data files . . .
+
+
+
+No duplicates found.  Experiment proceeding.
+
+ 
+You have selected the following parameters for this subject:
+     Subject Number = 123123
+     Training Condition = Study
+     Day = day1
+     Gender = female
+     data filename =  S123123_Studyday1_map1.dat
+     Monitor size = 16 inch monitor (horizontal)
+     Monitor resolution = 1600 x 1200resolution
+
+
+Please take a moment to double check these parameters against the experiment log.
+Accept, Reset, or Quit program (a, r, q): a
+test1
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: Fixed point precision integer framebuffer enabled.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.664686 ms [60.007133 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.665749 ms [60.003303 Hz]. (50 valid samples taken, stddev=0.019183 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+test2
+test3
+test4
+test5
+Snd(): Initializing PsychPortAudio driver for sound output.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+
+Will use ASIO enhanced Portaudio driver DLL. See Psychtoolbox/PsychSound/PortAudioLICENSE.txt
+for the exact terms of use for this dll.
+
+
+Disclaimer: "ASIO is a trademark and software of Steinberg Media Technologies GmbH."
+PTB-Warning: Although using the ASIO enabled Psychtoolbox sound driver,
+PTB-Warning: could not find any ASIO capable soundcard in your system.
+PTB-Warning: If you think you should have an ASIO card, please check your
+PTB-Warning: system for properly installed and configured drivers and retry.
+PTB-Warning: Read "help InitializePsychSound" for more info about ASIO et al.
+
+ans =
+
+     0
+
+Snd(): PsychPortAudio will be blocked for use by your own code until you call Snd('Close');
+Snd(): If you want to use PsychPortAudio and Snd in the same session, make sure to open your
+Snd(): stimulation sound device via calls to PsychPortAudio('Open', ...); *before* the first
+Snd(): call to Snd() or any function that might use Snd(), e.g., Beeper() and the Eyelink functions.
+
+check 0
+check 1
+check 2
+
+ans =
+
+   1.5059e+06
+
+PTB-DEBUG: DrawText: Failed to load external drawtext plugin [Unknown error].
+PTB-INFO: DrawText: Failed to load external drawtext plugin 'libptbdrawtext_ftgl64.dll'. Reverting to legacy GDI text renderer. 'help DrawTextPlugin' for troubleshooting.
+check 3
+check 4
+check 4.1
+
+
+INFO: PTB's Screen('Flip', 10) command seems to have missed the requested stimulus presentation deadline
+INFO: a total of 4 times out of a total of 10 flips during this session.
+
+INFO: This number is fairly accurate (and indicative of real timing problems in your own code or your system)
+INFO: if you provided requested stimulus onset times with the 'when' argument of Screen('Flip', window [, when]);
+INFO: If you called Screen('Flip', window); without the 'when' argument, this count is more of a ''mild'' indicator
+INFO: of timing behaviour than a hard reliable measurement. Large numbers may indicate problems and should at least
+INFO: deserve your closer attention. Cfe. 'help SyncTrouble', the FAQ section at www.psychtoolbox.org and the
+INFO: examples in the PDF presentation in PsychDocumentation/Psychtoolbox3-Slides.pdf for more info and timing tips.
+
+{Error using open (line 85)
+File 'displayText' not found.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('open', 'C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m', 85)" style="font-weight:bold">open</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m',85,0)">line 85</a>)
+    error(message('MATLAB:open:fileNotFound', name))
+} 
+David_Pilot_4WPT
+PsychJavaTrouble: Will now try to add the PsychJava folder to Matlabs dynamic classpath...
+PsychJavaTrouble: Added PsychJava folder to dynamic class path. Psychtoolbox Java commands should work now!
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.665222 ms [60.005200 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.665858 ms [60.002910 Hz]. (50 valid samples taken, stddev=0.040500 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+
+*************************************************************************
+
+EXPERIMENTERS, PLEASE READ. 
+Place the monitor approximately 20 in (50.8 cm) from the subject
+x_resolution = 1600
+y_resolution = 1200
+
+
+
+Response Keys
+
+     Category response labels A/B and AnA conditions.
+     If the category-keyboard mapping = 1, f=catA/Yes, j=catB/No:
+     If the category-keyboard mapping = 2, j=catA/Yes, f=catB/No:
+
+   Production task keys.
+     z=OK, /=ADJ, t=up arrow, y=down arrow
+     If the category-keyboard mapping = 2, k=catA/Yes, d=catB/No:
+
+
+IMPORTANT!!!!
+
+*************************************************************************
+
+
+Are you ready to proceed? (1=yes, -1=quit program)  :  1
+DEBUG MODE? (1=yes,0=no): 0
+Enter subject number: 123123
+
+
+STOP! All participants will be completing two days of the experiment: 
+Please double check that you are entering the correct day.Enter task day:  day 1 or 2    1
+Training Condition: (Study = 1; Test = 2)  1
+Enter subject gender female (1), male (2): 1
+Enter category-keyboard mapping. (1 or 2).  1
+
+
+Do you want to present the instructions?
+Enter 1 for full instructions, or 0 for no instructions.  0
+
+
+Checking for duplicate data files . . .
+
+
+
+No duplicates found.  Experiment proceeding.
+
+ 
+You have selected the following parameters for this subject:
+     Subject Number = 123123
+     Training Condition = Study
+     Day = day1
+     Gender = female
+     data filename =  S123123_Studyday1_map1.dat
+     Monitor size = 16 inch monitor (horizontal)
+     Monitor resolution = 1600 x 1200resolution
+
+
+Please take a moment to double check these parameters against the experiment log.
+Accept, Reset, or Quit program (a, r, q): a
+test1
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: Fixed point precision integer framebuffer enabled.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.666178 ms [60.001758 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.665653 ms [60.003650 Hz]. (50 valid samples taken, stddev=0.022701 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+test2
+test3
+test4
+test5
+Snd(): Initializing PsychPortAudio driver for sound output.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+
+Will use ASIO enhanced Portaudio driver DLL. See Psychtoolbox/PsychSound/PortAudioLICENSE.txt
+for the exact terms of use for this dll.
+
+
+Disclaimer: "ASIO is a trademark and software of Steinberg Media Technologies GmbH."
+PTB-Warning: Although using the ASIO enabled Psychtoolbox sound driver,
+PTB-Warning: could not find any ASIO capable soundcard in your system.
+PTB-Warning: If you think you should have an ASIO card, please check your
+PTB-Warning: system for properly installed and configured drivers and retry.
+PTB-Warning: Read "help InitializePsychSound" for more info about ASIO et al.
+
+ans =
+
+     0
+
+Snd(): PsychPortAudio will be blocked for use by your own code until you call Snd('Close');
+Snd(): If you want to use PsychPortAudio and Snd in the same session, make sure to open your
+Snd(): stimulation sound device via calls to PsychPortAudio('Open', ...); *before* the first
+Snd(): call to Snd() or any function that might use Snd(), e.g., Beeper() and the Eyelink functions.
+
+check 0
+check 1
+check 2
+
+ans =
+
+   1.5059e+06
+
+PTB-DEBUG: DrawText: Failed to load external drawtext plugin [Unknown error].
+PTB-INFO: DrawText: Failed to load external drawtext plugin 'libptbdrawtext_ftgl64.dll'. Reverting to legacy GDI text renderer. 'help DrawTextPlugin' for troubleshooting.
+check 3
+check 4
+check 4.1
+
+
+INFO: PTB's Screen('Flip', 10) command seems to have missed the requested stimulus presentation deadline
+INFO: a total of 3 times out of a total of 10 flips during this session.
+
+INFO: This number is fairly accurate (and indicative of real timing problems in your own code or your system)
+INFO: if you provided requested stimulus onset times with the 'when' argument of Screen('Flip', window [, when]);
+INFO: If you called Screen('Flip', window); without the 'when' argument, this count is more of a ''mild'' indicator
+INFO: of timing behaviour than a hard reliable measurement. Large numbers may indicate problems and should at least
+INFO: deserve your closer attention. Cfe. 'help SyncTrouble', the FAQ section at www.psychtoolbox.org and the
+INFO: examples in the PDF presentation in PsychDocumentation/Psychtoolbox3-Slides.pdf for more info and timing tips.
+
+{Error using open (line 85)
+File 'displayText' not found.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('open', 'C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m', 85)" style="font-weight:bold">open</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m',85,0)">line 85</a>)
+    error(message('MATLAB:open:fileNotFound', name))
+} 
+David_Pilot_4WPT
+PsychJavaTrouble: Will now try to add the PsychJava folder to Matlabs dynamic classpath...
+PsychJavaTrouble: Added PsychJava folder to dynamic class path. Psychtoolbox Java commands should work now!
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.665425 ms [60.004469 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.665191 ms [60.005313 Hz]. (50 valid samples taken, stddev=0.033121 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+
+*************************************************************************
+
+EXPERIMENTERS, PLEASE READ. 
+Place the monitor approximately 20 in (50.8 cm) from the subject
+x_resolution = 1600
+y_resolution = 1200
+
+
+
+Response Keys
+
+     Category response labels A/B and AnA conditions.
+     If the category-keyboard mapping = 1, f=catA/Yes, j=catB/No:
+     If the category-keyboard mapping = 2, j=catA/Yes, f=catB/No:
+
+   Production task keys.
+     z=OK, /=ADJ, t=up arrow, y=down arrow
+     If the category-keyboard mapping = 2, k=catA/Yes, d=catB/No:
+
+
+IMPORTANT!!!!
+
+*************************************************************************
+
+
+Are you ready to proceed? (1=yes, -1=quit program)  :  1
+DEBUG MODE? (1=yes,0=no): 0
+Enter subject number: 1
+
+
+STOP! All participants will be completing two days of the experiment: 
+Please double check that you are entering the correct day.Enter task day:  day 1 or 2    1
+Training Condition: (Study = 1; Test = 2)  1
+Enter subject gender female (1), male (2): 1
+Enter category-keyboard mapping. (1 or 2).  1
+
+
+Do you want to present the instructions?
+Enter 1 for full instructions, or 0 for no instructions.  0
+
+
+Checking for duplicate data files . . .
+
+
+
+No duplicates found.  Experiment proceeding.
+
+ 
+You have selected the following parameters for this subject:
+     Subject Number = 1
+     Training Condition = Study
+     Day = day1
+     Gender = female
+     data filename =  S1_Studyday1_map1.dat
+     Monitor size = 16 inch monitor (horizontal)
+     Monitor resolution = 1600 x 1200resolution
+
+
+Please take a moment to double check these parameters against the experiment log.
+Accept, Reset, or Quit program (a, r, q): a
+test1
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: Fixed point precision integer framebuffer enabled.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.665969 ms [60.002512 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.665557 ms [60.003996 Hz]. (50 valid samples taken, stddev=0.018624 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+test2
+test3
+test4
+test5
+Snd(): Initializing PsychPortAudio driver for sound output.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+
+Will use ASIO enhanced Portaudio driver DLL. See Psychtoolbox/PsychSound/PortAudioLICENSE.txt
+for the exact terms of use for this dll.
+
+
+Disclaimer: "ASIO is a trademark and software of Steinberg Media Technologies GmbH."
+PTB-Warning: Although using the ASIO enabled Psychtoolbox sound driver,
+PTB-Warning: could not find any ASIO capable soundcard in your system.
+PTB-Warning: If you think you should have an ASIO card, please check your
+PTB-Warning: system for properly installed and configured drivers and retry.
+PTB-Warning: Read "help InitializePsychSound" for more info about ASIO et al.
+
+ans =
+
+     0
+
+Snd(): PsychPortAudio will be blocked for use by your own code until you call Snd('Close');
+Snd(): If you want to use PsychPortAudio and Snd in the same session, make sure to open your
+Snd(): stimulation sound device via calls to PsychPortAudio('Open', ...); *before* the first
+Snd(): call to Snd() or any function that might use Snd(), e.g., Beeper() and the Eyelink functions.
+
+check 0
+check 1
+check 2
+
+ans =
+
+   1.5068e+06
+
+PTB-DEBUG: DrawText: Failed to load external drawtext plugin [Unknown error].
+PTB-INFO: DrawText: Failed to load external drawtext plugin 'libptbdrawtext_ftgl64.dll'. Reverting to legacy GDI text renderer. 'help DrawTextPlugin' for troubleshooting.
+check 3
+check 4
+check 4.1
+check 4.12
+{Error using open (line 85)
+File 'displayText' not found.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('open', 'C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m', 85)" style="font-weight:bold">open</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m',85,0)">line 85</a>)
+    error(message('MATLAB:open:fileNotFound', name))
+} 
+David_Pilot_4WPT
+PsychJavaTrouble: Will now try to add the PsychJava folder to Matlabs dynamic classpath...
+PsychJavaTrouble: Added PsychJava folder to dynamic class path. Psychtoolbox Java commands should work now!
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.663979 ms [60.009679 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.664800 ms [60.006722 Hz]. (50 valid samples taken, stddev=0.037203 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+
+*************************************************************************
+
+EXPERIMENTERS, PLEASE READ. 
+Place the monitor approximately 20 in (50.8 cm) from the subject
+x_resolution = 1600
+y_resolution = 1200
+
+
+
+Response Keys
+
+     Category response labels A/B and AnA conditions.
+     If the category-keyboard mapping = 1, f=catA/Yes, j=catB/No:
+     If the category-keyboard mapping = 2, j=catA/Yes, f=catB/No:
+
+   Production task keys.
+     z=OK, /=ADJ, t=up arrow, y=down arrow
+     If the category-keyboard mapping = 2, k=catA/Yes, d=catB/No:
+
+
+IMPORTANT!!!!
+
+*************************************************************************
+
+
+Are you ready to proceed? (1=yes, -1=quit program)  :  1
+DEBUG MODE? (1=yes,0=no): 0
+Enter subject number: 1
+
+
+STOP! All participants will be completing two days of the experiment: 
+Please double check that you are entering the correct day.Enter task day:  day 1 or 2    1
+Training Condition: (Study = 1; Test = 2)  1
+Enter subject gender female (1), male (2): 1
+Enter category-keyboard mapping. (1 or 2).  1
+
+
+Do you want to present the instructions?
+Enter 1 for full instructions, or 0 for no instructions.  0
+
+
+Checking for duplicate data files . . .
+
+
+
+No duplicates found.  Experiment proceeding.
+
+ 
+You have selected the following parameters for this subject:
+     Subject Number = 1
+     Training Condition = Study
+     Day = day1
+     Gender = female
+     data filename =  S1_Studyday1_map1.dat
+     Monitor size = 16 inch monitor (horizontal)
+     Monitor resolution = 1600 x 1200resolution
+
+
+Please take a moment to double check these parameters against the experiment log.
+Accept, Reset, or Quit program (a, r, q): a
+test1
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: Fixed point precision integer framebuffer enabled.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.665936 ms [60.002630 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.665691 ms [60.003511 Hz]. (50 valid samples taken, stddev=0.014193 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+test2
+test3
+test4
+test5
+Snd(): Initializing PsychPortAudio driver for sound output.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+
+Will use ASIO enhanced Portaudio driver DLL. See Psychtoolbox/PsychSound/PortAudioLICENSE.txt
+for the exact terms of use for this dll.
+
+
+Disclaimer: "ASIO is a trademark and software of Steinberg Media Technologies GmbH."
+PTB-Warning: Although using the ASIO enabled Psychtoolbox sound driver,
+PTB-Warning: could not find any ASIO capable soundcard in your system.
+PTB-Warning: If you think you should have an ASIO card, please check your
+PTB-Warning: system for properly installed and configured drivers and retry.
+PTB-Warning: Read "help InitializePsychSound" for more info about ASIO et al.
+
+ans =
+
+     0
+
+Snd(): PsychPortAudio will be blocked for use by your own code until you call Snd('Close');
+Snd(): If you want to use PsychPortAudio and Snd in the same session, make sure to open your
+Snd(): stimulation sound device via calls to PsychPortAudio('Open', ...); *before* the first
+Snd(): call to Snd() or any function that might use Snd(), e.g., Beeper() and the Eyelink functions.
+
+check 0
+check 1
+check 2
+
+ans =
+
+   1.5070e+06
+
+PTB-DEBUG: DrawText: Failed to load external drawtext plugin [Unknown error].
+PTB-INFO: DrawText: Failed to load external drawtext plugin 'libptbdrawtext_ftgl64.dll'. Reverting to legacy GDI text renderer. 'help DrawTextPlugin' for troubleshooting.
+check 3
+check 4
+check 4.1
+check 4.12
+
+
+INFO: PTB's Screen('Flip', 10) command seems to have missed the requested stimulus presentation deadline
+INFO: a total of 3 times out of a total of 10 flips during this session.
+
+INFO: This number is fairly accurate (and indicative of real timing problems in your own code or your system)
+INFO: if you provided requested stimulus onset times with the 'when' argument of Screen('Flip', window [, when]);
+INFO: If you called Screen('Flip', window); without the 'when' argument, this count is more of a ''mild'' indicator
+INFO: of timing behaviour than a hard reliable measurement. Large numbers may indicate problems and should at least
+INFO: deserve your closer attention. Cfe. 'help SyncTrouble', the FAQ section at www.psychtoolbox.org and the
+INFO: examples in the PDF presentation in PsychDocumentation/Psychtoolbox3-Slides.pdf for more info and timing tips.
+
+{Error using open (line 85)
+File 'displayText' not found.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('open', 'C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m', 85)" style="font-weight:bold">open</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m',85,0)">line 85</a>)
+    error(message('MATLAB:open:fileNotFound', name))
+} 
+clear all
+load temp
+David_Pilot_4WPT
+PsychJavaTrouble: Will now try to add the PsychJava folder to Matlabs dynamic classpath...
+PsychJavaTrouble: Added PsychJava folder to dynamic class path. Psychtoolbox Java commands should work now!
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.665838 ms [60.002984 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.664081 ms [60.009309 Hz]. (50 valid samples taken, stddev=0.046162 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+
+*************************************************************************
+
+EXPERIMENTERS, PLEASE READ. 
+Place the monitor approximately 20 in (50.8 cm) from the subject
+x_resolution = 1600
+y_resolution = 1200
+
+
+
+Response Keys
+
+     Category response labels A/B and AnA conditions.
+     If the category-keyboard mapping = 1, f=catA/Yes, j=catB/No:
+     If the category-keyboard mapping = 2, j=catA/Yes, f=catB/No:
+
+   Production task keys.
+     z=OK, /=ADJ, t=up arrow, y=down arrow
+     If the category-keyboard mapping = 2, k=catA/Yes, d=catB/No:
+
+
+IMPORTANT!!!!
+
+*************************************************************************
+
+
+Are you ready to proceed? (1=yes, -1=quit program)  :  1
+DEBUG MODE? (1=yes,0=no): 0
+Enter subject number: 1
+
+
+STOP! All participants will be completing two days of the experiment: 
+Please double check that you are entering the correct day.Enter task day:  day 1 or 2    1
+Training Condition: (Study = 1; Test = 2)  1
+Enter subject gender female (1), male (2): 1
+Enter category-keyboard mapping. (1 or 2).  1
+
+
+Do you want to present the instructions?
+Enter 1 for full instructions, or 0 for no instructions.  0
+
+
+Checking for duplicate data files . . .
+
+
+
+No duplicates found.  Experiment proceeding.
+
+ 
+You have selected the following parameters for this subject:
+     Subject Number = 1
+     Training Condition = Study
+     Day = day1
+     Gender = female
+     data filename =  S1_Studyday1_map1.dat
+     Monitor size = 16 inch monitor (horizontal)
+     Monitor resolution = 1600 x 1200resolution
+
+
+Please take a moment to double check these parameters against the experiment log.
+Accept, Reset, or Quit program (a, r, q): a
+test1
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: Fixed point precision integer framebuffer enabled.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.663828 ms [60.010221 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.665647 ms [60.003673 Hz]. (50 valid samples taken, stddev=0.032316 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+test2
+test3
+test4
+test5
+Snd(): Initializing PsychPortAudio driver for sound output.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+
+Will use ASIO enhanced Portaudio driver DLL. See Psychtoolbox/PsychSound/PortAudioLICENSE.txt
+for the exact terms of use for this dll.
+
+
+Disclaimer: "ASIO is a trademark and software of Steinberg Media Technologies GmbH."
+PTB-Warning: Although using the ASIO enabled Psychtoolbox sound driver,
+PTB-Warning: could not find any ASIO capable soundcard in your system.
+PTB-Warning: If you think you should have an ASIO card, please check your
+PTB-Warning: system for properly installed and configured drivers and retry.
+PTB-Warning: Read "help InitializePsychSound" for more info about ASIO et al.
+
+ans =
+
+     0
+
+Snd(): PsychPortAudio will be blocked for use by your own code until you call Snd('Close');
+Snd(): If you want to use PsychPortAudio and Snd in the same session, make sure to open your
+Snd(): stimulation sound device via calls to PsychPortAudio('Open', ...); *before* the first
+Snd(): call to Snd() or any function that might use Snd(), e.g., Beeper() and the Eyelink functions.
+
+check 0
+check 1
+check 2
+
+ans =
+
+   1.5072e+06
+
+PTB-DEBUG: DrawText: Failed to load external drawtext plugin [Unknown error].
+PTB-INFO: DrawText: Failed to load external drawtext plugin 'libptbdrawtext_ftgl64.dll'. Reverting to legacy GDI text renderer. 'help DrawTextPlugin' for troubleshooting.
+check 3
+check 4
+check 4.1
+check 4.12
+checkgetreponse1
+checkgetreponse2
+
+
+INFO: PTB's Screen('Flip', 10) command seems to have missed the requested stimulus presentation deadline
+INFO: a total of 4 times out of a total of 10 flips during this session.
+
+INFO: This number is fairly accurate (and indicative of real timing problems in your own code or your system)
+INFO: if you provided requested stimulus onset times with the 'when' argument of Screen('Flip', window [, when]);
+INFO: If you called Screen('Flip', window); without the 'when' argument, this count is more of a ''mild'' indicator
+INFO: of timing behaviour than a hard reliable measurement. Large numbers may indicate problems and should at least
+INFO: deserve your closer attention. Cfe. 'help SyncTrouble', the FAQ section at www.psychtoolbox.org and the
+INFO: examples in the PDF presentation in PsychDocumentation/Psychtoolbox3-Slides.pdf for more info and timing tips.
+
+{Error using open (line 85)
+File 'displayText' not found.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('open', 'C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m', 85)" style="font-weight:bold">open</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m',85,0)">line 85</a>)
+    error(message('MATLAB:open:fileNotFound', name))
+} 
+opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m',85,0)
+opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m',85,0)
+opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m',85,0)
+David_Pilot_4WPT
+PsychJavaTrouble: Will now try to add the PsychJava folder to Matlabs dynamic classpath...
+PsychJavaTrouble: Added PsychJava folder to dynamic class path. Psychtoolbox Java commands should work now!
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.665753 ms [60.003290 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.666404 ms [60.000947 Hz]. (50 valid samples taken, stddev=0.039026 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+
+*************************************************************************
+
+EXPERIMENTERS, PLEASE READ. 
+Place the monitor approximately 20 in (50.8 cm) from the subject
+x_resolution = 1600
+y_resolution = 1200
+
+
+
+Response Keys
+
+     Category response labels A/B and AnA conditions.
+     If the category-keyboard mapping = 1, f=catA/Yes, j=catB/No:
+     If the category-keyboard mapping = 2, j=catA/Yes, f=catB/No:
+
+   Production task keys.
+     z=OK, /=ADJ, t=up arrow, y=down arrow
+     If the category-keyboard mapping = 2, k=catA/Yes, d=catB/No:
+
+
+IMPORTANT!!!!
+
+*************************************************************************
+
+
+Are you ready to proceed? (1=yes, -1=quit program)  :  1
+DEBUG MODE? (1=yes,0=no): 0
+Enter subject number: 2
+
+
+STOP! All participants will be completing two days of the experiment: 
+Please double check that you are entering the correct day.Enter task day:  day 1 or 2    1
+Training Condition: (Study = 1; Test = 2)  1
+Enter subject gender female (1), male (2): 1
+Enter category-keyboard mapping. (1 or 2).  1
+
+
+Do you want to present the instructions?
+Enter 1 for full instructions, or 0 for no instructions.  0
+
+
+Checking for duplicate data files . . .
+
+
+
+No duplicates found.  Experiment proceeding.
+
+ 
+You have selected the following parameters for this subject:
+     Subject Number = 2
+     Training Condition = Study
+     Day = day1
+     Gender = female
+     data filename =  S2_Studyday1_map1.dat
+     Monitor size = 16 inch monitor (horizontal)
+     Monitor resolution = 1600 x 1200resolution
+
+
+Please take a moment to double check these parameters against the experiment log.
+Accept, Reset, or Quit program (a, r, q): a
+test1
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: Fixed point precision integer framebuffer enabled.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.666060 ms [60.002182 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.665576 ms [60.003927 Hz]. (50 valid samples taken, stddev=0.028608 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+test2
+test3
+test4
+test5
+Snd(): Initializing PsychPortAudio driver for sound output.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+
+Will use ASIO enhanced Portaudio driver DLL. See Psychtoolbox/PsychSound/PortAudioLICENSE.txt
+for the exact terms of use for this dll.
+
+
+Disclaimer: "ASIO is a trademark and software of Steinberg Media Technologies GmbH."
+PTB-Warning: Although using the ASIO enabled Psychtoolbox sound driver,
+PTB-Warning: could not find any ASIO capable soundcard in your system.
+PTB-Warning: If you think you should have an ASIO card, please check your
+PTB-Warning: system for properly installed and configured drivers and retry.
+PTB-Warning: Read "help InitializePsychSound" for more info about ASIO et al.
+
+ans =
+
+     0
+
+Snd(): PsychPortAudio will be blocked for use by your own code until you call Snd('Close');
+Snd(): If you want to use PsychPortAudio and Snd in the same session, make sure to open your
+Snd(): stimulation sound device via calls to PsychPortAudio('Open', ...); *before* the first
+Snd(): call to Snd() or any function that might use Snd(), e.g., Beeper() and the Eyelink functions.
+
+check 0
+check 1
+check 2
+
+ans =
+
+   1.5073e+06
+
+PTB-DEBUG: DrawText: Failed to load external drawtext plugin [Unknown error].
+PTB-INFO: DrawText: Failed to load external drawtext plugin 'libptbdrawtext_ftgl64.dll'. Reverting to legacy GDI text renderer. 'help DrawTextPlugin' for troubleshooting.
+check 3
+check 4
+check 4.1
+check 4.12
+checkgetreponse1
+checkgetreponse2
+checkgetreponse3
+checkgetreponse4
+{Error using open (line 145)
+Cannot edit the MEX-file 'C:\toolbox\Psychtoolbox\PsychBasic\MatlabWindowsFilesR2007a\Screen.mexw64'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('open', 'C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m', 145)" style="font-weight:bold">open</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m',145,0)">line 145</a>)
+        error('MATLAB:open:openFailure', '%s', exception.message);
+} 
+David_Pilot_4WPT
+PsychJavaTrouble: Will now try to add the PsychJava folder to Matlabs dynamic classpath...
+PsychJavaTrouble: Added PsychJava folder to dynamic class path. Psychtoolbox Java commands should work now!
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.665137 ms [60.005506 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.665724 ms [60.003395 Hz]. (50 valid samples taken, stddev=0.039948 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+
+*************************************************************************
+
+EXPERIMENTERS, PLEASE READ. 
+Place the monitor approximately 20 in (50.8 cm) from the subject
+x_resolution = 1600
+y_resolution = 1200
+
+
+
+Response Keys
+
+     Category response labels A/B and AnA conditions.
+     If the category-keyboard mapping = 1, f=catA/Yes, j=catB/No:
+     If the category-keyboard mapping = 2, j=catA/Yes, f=catB/No:
+
+   Production task keys.
+     z=OK, /=ADJ, t=up arrow, y=down arrow
+     If the category-keyboard mapping = 2, k=catA/Yes, d=catB/No:
+
+
+IMPORTANT!!!!
+
+*************************************************************************
+
+
+Are you ready to proceed? (1=yes, -1=quit program)  :  1
+DEBUG MODE? (1=yes,0=no): 0
+Enter subject number: 2
+
+
+STOP! All participants will be completing two days of the experiment: 
+Please double check that you are entering the correct day.Enter task day:  day 1 or 2    1
+Training Condition: (Study = 1; Test = 2)  1
+Enter subject gender female (1), male (2): 1
+Enter category-keyboard mapping. (1 or 2).  1
+
+
+Do you want to present the instructions?
+Enter 1 for full instructions, or 0 for no instructions.  0
+
+
+Checking for duplicate data files . . .
+
+
+
+No duplicates found.  Experiment proceeding.
+
+ 
+You have selected the following parameters for this subject:
+     Subject Number = 2
+     Training Condition = Study
+     Day = day1
+     Gender = female
+     data filename =  S2_Studyday1_map1.dat
+     Monitor size = 16 inch monitor (horizontal)
+     Monitor resolution = 1600 x 1200resolution
+
+
+Please take a moment to double check these parameters against the experiment log.
+Accept, Reset, or Quit program (a, r, q): a
+test1
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: Fixed point precision integer framebuffer enabled.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.666041 ms [60.002253 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.665762 ms [60.003257 Hz]. (50 valid samples taken, stddev=0.041828 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+test2
+test3
+test4
+test5
+Snd(): Initializing PsychPortAudio driver for sound output.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+
+Will use ASIO enhanced Portaudio driver DLL. See Psychtoolbox/PsychSound/PortAudioLICENSE.txt
+for the exact terms of use for this dll.
+
+
+Disclaimer: "ASIO is a trademark and software of Steinberg Media Technologies GmbH."
+PTB-Warning: Although using the ASIO enabled Psychtoolbox sound driver,
+PTB-Warning: could not find any ASIO capable soundcard in your system.
+PTB-Warning: If you think you should have an ASIO card, please check your
+PTB-Warning: system for properly installed and configured drivers and retry.
+PTB-Warning: Read "help InitializePsychSound" for more info about ASIO et al.
+
+ans =
+
+     0
+
+Snd(): PsychPortAudio will be blocked for use by your own code until you call Snd('Close');
+Snd(): If you want to use PsychPortAudio and Snd in the same session, make sure to open your
+Snd(): stimulation sound device via calls to PsychPortAudio('Open', ...); *before* the first
+Snd(): call to Snd() or any function that might use Snd(), e.g., Beeper() and the Eyelink functions.
+
+check 0
+check 1
+check 2
+
+ans =
+
+   1.5074e+06
+
+PTB-DEBUG: DrawText: Failed to load external drawtext plugin [Unknown error].
+PTB-INFO: DrawText: Failed to load external drawtext plugin 'libptbdrawtext_ftgl64.dll'. Reverting to legacy GDI text renderer. 'help DrawTextPlugin' for troubleshooting.
+check 3
+check 4
+check 4.1
+check 4.12
+checkgetreponse1
+checkgetreponse2
+checkgetreponse3
+checkgetreponse4
+
+
+INFO: PTB's Screen('Flip', 10) command seems to have missed the requested stimulus presentation deadline
+INFO: a total of 4 times out of a total of 10 flips during this session.
+
+INFO: This number is fairly accurate (and indicative of real timing problems in your own code or your system)
+INFO: if you provided requested stimulus onset times with the 'when' argument of Screen('Flip', window [, when]);
+INFO: If you called Screen('Flip', window); without the 'when' argument, this count is more of a ''mild'' indicator
+INFO: of timing behaviour than a hard reliable measurement. Large numbers may indicate problems and should at least
+INFO: deserve your closer attention. Cfe. 'help SyncTrouble', the FAQ section at www.psychtoolbox.org and the
+INFO: examples in the PDF presentation in PsychDocumentation/Psychtoolbox3-Slides.pdf for more info and timing tips.
+
+{Error using open (line 145)
+Cannot edit the MEX-file 'C:\toolbox\Psychtoolbox\PsychBasic\MatlabWindowsFilesR2007a\Screen.mexw64'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('open', 'C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m', 145)" style="font-weight:bold">open</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m',145,0)">line 145</a>)
+        error('MATLAB:open:openFailure', '%s', exception.message);
+} 
+David_Pilot_4WPT
+PsychJavaTrouble: Will now try to add the PsychJava folder to Matlabs dynamic classpath...
+PsychJavaTrouble: Added PsychJava folder to dynamic class path. Psychtoolbox Java commands should work now!
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.665740 ms [60.003337 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.665627 ms [60.003742 Hz]. (50 valid samples taken, stddev=0.012366 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+
+*************************************************************************
+
+EXPERIMENTERS, PLEASE READ. 
+Place the monitor approximately 20 in (50.8 cm) from the subject
+x_resolution = 1600
+y_resolution = 1200
+
+
+
+Response Keys
+
+     Category response labels A/B and AnA conditions.
+     If the category-keyboard mapping = 1, f=catA/Yes, j=catB/No:
+     If the category-keyboard mapping = 2, j=catA/Yes, f=catB/No:
+
+   Production task keys.
+     z=OK, /=ADJ, t=up arrow, y=down arrow
+     If the category-keyboard mapping = 2, k=catA/Yes, d=catB/No:
+
+
+IMPORTANT!!!!
+
+*************************************************************************
+
+
+Are you ready to proceed? (1=yes, -1=quit program)  :  1
+DEBUG MODE? (1=yes,0=no): 0
+Enter subject number: 1
+
+
+STOP! All participants will be completing two days of the experiment: 
+Please double check that you are entering the correct day.Enter task day:  day 1 or 2    1
+Training Condition: (Study = 1; Test = 2)  1
+Enter subject gender female (1), male (2): 1
+Enter category-keyboard mapping. (1 or 2).  1
+
+
+Do you want to present the instructions?
+Enter 1 for full instructions, or 0 for no instructions.  0
+
+
+Checking for duplicate data files . . .
+
+
+
+No duplicates found.  Experiment proceeding.
+
+ 
+You have selected the following parameters for this subject:
+     Subject Number = 1
+     Training Condition = Study
+     Day = day1
+     Gender = female
+     data filename =  S1_Studyday1_map1.dat
+     Monitor size = 16 inch monitor (horizontal)
+     Monitor resolution = 1600 x 1200resolution
+
+
+Please take a moment to double check these parameters against the experiment log.
+Accept, Reset, or Quit program (a, r, q): a
+test1
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 6.1 partially supported, but no longer tested at all.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: Will disable DWM because a regular fullscreen onscreen window is opened -> We want best timing and performance.
+PTB-INFO: Fixed point precision integer framebuffer enabled.
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce GT 730/PCIe/SSE2 :: 4.5.0 NVIDIA 369.68
+PTB-INFO: VBL startline = 1200 , VBL Endline = 1199
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.665694 ms [60.003502 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.664036 ms [60.009471 Hz]. (50 valid samples taken, stddev=0.033767 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+test2
+test3
+test4
+test5
+Snd(): Initializing PsychPortAudio driver for sound output.
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+
+Will use ASIO enhanced Portaudio driver DLL. See Psychtoolbox/PsychSound/PortAudioLICENSE.txt
+for the exact terms of use for this dll.
+
+
+Disclaimer: "ASIO is a trademark and software of Steinberg Media Technologies GmbH."
+PTB-Warning: Although using the ASIO enabled Psychtoolbox sound driver,
+PTB-Warning: could not find any ASIO capable soundcard in your system.
+PTB-Warning: If you think you should have an ASIO card, please check your
+PTB-Warning: system for properly installed and configured drivers and retry.
+PTB-Warning: Read "help InitializePsychSound" for more info about ASIO et al.
+
+ans =
+
+     0
+
+Snd(): PsychPortAudio will be blocked for use by your own code until you call Snd('Close');
+Snd(): If you want to use PsychPortAudio and Snd in the same session, make sure to open your
+Snd(): stimulation sound device via calls to PsychPortAudio('Open', ...); *before* the first
+Snd(): call to Snd() or any function that might use Snd(), e.g., Beeper() and the Eyelink functions.
+
+check 0
+check 1
+check 2
+
+ans =
+
+   1.5075e+06
+
+PTB-DEBUG: DrawText: Failed to load external drawtext plugin [Unknown error].
+PTB-INFO: DrawText: Failed to load external drawtext plugin 'libptbdrawtext_ftgl64.dll'. Reverting to legacy GDI text renderer. 'help DrawTextPlugin' for troubleshooting.
+check 3
+check 4
+check 4.1
+check 4.12
+checkgetreponse1
+checkgetreponse2
+checkgetreponse3
+checkgetreponse4
+checkgetreponse5
+
+
+INFO: PTB's Screen('Flip', 10) command seems to have missed the requested stimulus presentation deadline
+INFO: a total of 2 times out of a total of 10 flips during this session.
+
+INFO: This number is fairly accurate (and indicative of real timing problems in your own code or your system)
+INFO: if you provided requested stimulus onset times with the 'when' argument of Screen('Flip', window [, when]);
+INFO: If you called Screen('Flip', window); without the 'when' argument, this count is more of a ''mild'' indicator
+INFO: of timing behaviour than a hard reliable measurement. Large numbers may indicate problems and should at least
+INFO: deserve your closer attention. Cfe. 'help SyncTrouble', the FAQ section at www.psychtoolbox.org and the
+INFO: examples in the PDF presentation in PsychDocumentation/Psychtoolbox3-Slides.pdf for more info and timing tips.
+
+{Error using open (line 145)
+Cannot edit the MEX-file 'C:\toolbox\Psychtoolbox\PsychBasic\MatlabWindowsFilesR2007a\Screen.mexw64'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('open', 'C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m', 145)" style="font-weight:bold">open</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\general\open.m',145,0)">line 145</a>)
+        error('MATLAB:open:openFailure', '%s', exception.message);
+} 
+clear all
+load temp

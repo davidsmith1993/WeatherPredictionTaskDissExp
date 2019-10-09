@@ -1,0 +1,5 @@
+If you accidentally press a button other than the ones 
+you are instructed to use you will see the following message.
+
+Press the space bar to continue. 
+

@@ -1,0 +1,19 @@
+Recall, your task is to learn, using the geometric cues, 
+which cues predict which weather pattern.
+When you first start, you won't know how the cues predict the weather pattern. 
+Your goal is to learn how to predict the cues. You will be tested 
+later in the experiment. To help you gauge your 
+performance, at the end of each block (4 total) you will be told how accurate you were 
+(i.e., your percent correct). Your goal is to increase your accuracy to 100% correct.
+
+
+
+
+The experimenter will review the instructions and answer any questions 
+you may have. Please do not hesitate to ask questions - these 
+instructions are complicated and questions are expected.
+
+
+
+Press the space bar to continue.
+
